@@ -1,3 +1,5 @@
+![logo](/IMG-20180904-WA0005.jpg)
+
 ### What is it
 * Wireless stage lighting fixture, which works in WiFi 2.4GHz network, and for control uses Art-Net.
 * It is completely wireless, it has bulit-in battery.
