@@ -1,4 +1,4 @@
-![logo](/IMG-20180904-WA0005.jpg)
+![logo](/WIRELESS_fixture_for_stage_lighting/IMG-20180904-WA0005.jpg)
 
 ### What is it
 * Wireless stage lighting fixture, which works in WiFi 2.4GHz network, and for control uses Art-Net.
