@@ -1,1 +1,2 @@
-
+### Description
+During free time I decided to create workshop tool from irreversibly damaged [ROBE](https://www.robe.cz/) fixture. It is based on ROBE_Navigation_System PCB, which appears to do input/output processing. I use it as a very simple DMX and RDM tester, but mainly for ArtNet_to_DMX conversion. Quick and easy network setup with ROBE interface is the best part of this project. This feature sets it apart from cheap products like [DMXking](https://dmxking.com/artnetsacn) , where you need a PC to configure them. Of course, considering that you have a damaged fixture laying around.
